@@ -1,7 +1,7 @@
 <h3 align="center">Hi 👋, I am Mounir Bencherif.</h3>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=⚙️+Data+Scientist+⚙️;💻+Data+Engineering+and+ML+Enthusiast+💻;📊+Data+Analysis+📊;&center=true&width=500&height=50" alt="Typing animation showing my roles and certifications">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=⚙️+Data+Scientist+⚙️;💻+Data+Engineering+and+AI+Enthusiast+💻;📊+Data+Analysis+📊;&center=true&width=500&height=50" alt="Typing animation showing my roles and certifications">
   </a>
 </p>
 
