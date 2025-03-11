@@ -9,7 +9,7 @@
 
 
 <h3 align="left">👨🏻‍💻  About Me</h3>
- 💡  I’m passionate about data – from collection to decision-making. I enjoy extracting meaningful insights and building AI-powered solutions.<br>
+ 💡  I’m passionate about data, from collection to decision-making. I enjoy extracting meaningful insights and building AI-powered solutions.<br>
 🎓  I hold an engineering degree in Data Science from INPT, Rabat and have completed research at LAAS-CNRS, France.<br>
 🌱  Currently learning ETL pipelines, cloud technologies, and advanced SQL for data engineering.<br>
 🚀 Actively working on real-world projects to enhance my portfolio and problem-solving skills.<br>
